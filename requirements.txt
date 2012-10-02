@@ -1,0 +1,12 @@
+django
+south
+psycopg2
+Pillow
+django-annoying
+Mock
+factory_boy
+webtest
+django-webtest
+django-nose
+nose-progressive
+django-debug-toolbar
