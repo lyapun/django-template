@@ -3,7 +3,7 @@ My project template for bootstrapping django projects.
 
 ## How to use ##
 
-django-admin.py startproject --template https://github.com/lyapun/django-template/zipball/master <<project_name>>
+django-admin.py startproject --template https://github.com/lyapun/django-template/zipball/master project_name
 
 ## What included ##
 
